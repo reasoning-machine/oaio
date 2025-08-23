@@ -1,1 +1,1 @@
-### Thingking-Machine (oaio).
+### Reasoning-Machine (oaio).
