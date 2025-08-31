@@ -25,7 +25,7 @@ app:
 
 lm:
   model: gpt-5-2025-08-07
-  max_output_tokens: 128000
+  max_output_tokens: 128001
   reasoning_effort: high
   reasoning_summary: detailed
   temperature: 1.0
